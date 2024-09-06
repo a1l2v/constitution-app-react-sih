@@ -45,3 +45,27 @@ VITE_FIREBASE_STORAGE_BUCKET=your_project_id.appspot.com
 VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 VITE_FIREBASE_APP_ID=your_firebase_app_id
 VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
+
+
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/nagrik-aur-samvidhan.git
+cd nagrik-aur-samvidhan
+Install dependencies:
+
+bash
+Copy code
+npm install
+Set up environment variables:
+
+Create a .env file in the root directory and add your Firebase credentials as mentioned in the Firebase setup section.
+
+Run the development server:
+
+bash
+Copy code
+npm run dev
+Open http://localhost:3000 to view the app in the browser.
