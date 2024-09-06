@@ -65,3 +65,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Authentication and Analytics by [Firebase](https://firebase.google.com/)
 - Styling by [Tailwind CSS](https://tailwindcss.com/)
 
+## Made with ❤️ by Alvin
+
+
+
+## Feel free to modify this `README.md` to better reflect the features and setup of your project! Let me know if you'd like to add or change anything.
+
+
