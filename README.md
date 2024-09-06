@@ -44,7 +44,7 @@ Before setting up the project, make sure you have:
 ```bash
 git clone https://github.com/your-username/nagrik-aur-samvidhan.git
 cd nagrik-aur-samvidhan
-
+```
 
 ## Contributing
 
