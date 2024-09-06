@@ -45,3 +45,23 @@ Before setting up the project, make sure you have:
 git clone https://github.com/your-username/nagrik-aur-samvidhan.git
 cd nagrik-aur-samvidhan
 
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Icons from [React Icons](https://react-icons.github.io/react-icons/)
+- Authentication and Analytics by [Firebase](https://firebase.google.com/)
+- Styling by [Tailwind CSS](https://tailwindcss.com/)
+
